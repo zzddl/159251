@@ -1,0 +1,14 @@
+commons-lang
+number of packages 35
+number of classes (average and max)：765
+number of methods (average and max)：6071
+name of largest class file (.java) in each project based on LOC value：validateTest.java
+
+jdepend
+number of packages 8
+number of classes (average and max)：52
+number of methods (average and max)：457
+name of largest class file (.java) in each project based on LOC value：ClassFileParser.java
+
+
+
