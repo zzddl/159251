@@ -1,1 +1,4 @@
-2020-10-15 10:02:06 [ main ] ERROR
+2020-10-20 11:12:21  [ main:54 ] - [ ERROR ]  cannot parse date from string - please check whether syntax is correct: Animates,4,13/5/2012
+2020-10-20 13:53:34  [ main:44 ] - [ ERROR ]  cannot parse date from string - please check whether syntax is correct: Animates,4,13/5/2012
+2020-10-20 14:01:13  [ main:61 ] - [ ERROR ]  cannot parse date from string - please check whether syntax is correct: Animates,4,13/5/2012
+2020-10-20 14:07:50  [ main:32 ] - [ ERROR ]  cannot parse date from string - please check whether syntax is correct: Animates,4,13/5/2012

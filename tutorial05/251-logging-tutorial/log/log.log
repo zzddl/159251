@@ -1,3 +1,36 @@
-2020-10-15 10:02:06 [ main ] INFO
-2020-10-15 10:02:06 [ main ] WARN
-2020-10-15 10:02:06 [ main ] ERROR
+2020-10-20 11:12:21  [ main:0 ] - [ INFO ]  import data from src/resources/transactions1.csv
+2020-10-20 11:12:21  [ main:49 ] - [ INFO ]  import data from src/resources/transactions2.csv
+2020-10-20 11:12:21  [ main:51 ] - [ INFO ]  import data from src/resources/transactions3.csv
+2020-10-20 11:12:21  [ main:54 ] - [ ERROR ]  cannot parse date from string - please check whether syntax is correct: Animates,4,13/5/2012
+2020-10-20 11:12:21  [ main:56 ] - [ INFO ]  import data from src/resources/transactions4.csv
+2020-10-20 11:12:21  [ main:61 ] - [ WARN ]  file src/resources/transactions4.csv does not exist - skip
+2020-10-20 11:12:21  [ main:66 ] - [ INFO ]  8 transactions imported
+2020-10-20 11:12:21  [ main:69 ] - [ INFO ]  total value: ¥840.00
+2020-10-20 11:12:21  [ main:70 ] - [ INFO ]  max value: ¥240.00
+2020-10-20 13:53:34  [ main:0 ] - [ INFO ]  import data from src/resources/transactions1.csv
+2020-10-20 13:53:34  [ main:40 ] - [ INFO ]  import data from src/resources/transactions2.csv
+2020-10-20 13:53:34  [ main:40 ] - [ INFO ]  import data from src/resources/transactions3.csv
+2020-10-20 13:53:34  [ main:44 ] - [ ERROR ]  cannot parse date from string - please check whether syntax is correct: Animates,4,13/5/2012
+2020-10-20 13:53:34  [ main:44 ] - [ INFO ]  import data from src/resources/transactions4.csv
+2020-10-20 13:53:34  [ main:44 ] - [ WARN ]  file src/resources/transactions4.csv does not exist - skip
+2020-10-20 13:53:34  [ main:48 ] - [ INFO ]  8 transactions imported
+2020-10-20 13:53:34  [ main:52 ] - [ INFO ]  total value: ¥840.00
+2020-10-20 13:53:34  [ main:52 ] - [ INFO ]  max value: ¥240.00
+2020-10-20 14:01:13  [ main:0 ] - [ INFO ]  import data from src/resources/transactions1.csv
+2020-10-20 14:01:13  [ main:57 ] - [ INFO ]  import data from src/resources/transactions2.csv
+2020-10-20 14:01:13  [ main:61 ] - [ INFO ]  import data from src/resources/transactions3.csv
+2020-10-20 14:01:13  [ main:61 ] - [ ERROR ]  cannot parse date from string - please check whether syntax is correct: Animates,4,13/5/2012
+2020-10-20 14:01:13  [ main:65 ] - [ INFO ]  import data from src/resources/transactions4.csv
+2020-10-20 14:01:13  [ main:69 ] - [ WARN ]  file src/resources/transactions4.csv does not exist - skip
+2020-10-20 14:01:13  [ main:85 ] - [ INFO ]  8 transactions imported
+2020-10-20 14:01:13  [ main:89 ] - [ INFO ]  total value: ¥840.00
+2020-10-20 14:01:13  [ main:89 ] - [ INFO ]  max value: ¥240.00
+2020-10-20 14:07:50  [ main:0 ] - [ INFO ]  import data from src/resources/transactions1.csv
+2020-10-20 14:07:50  [ main:29 ] - [ INFO ]  import data from src/resources/transactions2.csv
+2020-10-20 14:07:50  [ main:30 ] - [ INFO ]  import data from src/resources/transactions3.csv
+2020-10-20 14:07:50  [ main:32 ] - [ ERROR ]  cannot parse date from string - please check whether syntax is correct: Animates,4,13/5/2012
+2020-10-20 14:07:50  [ main:33 ] - [ INFO ]  import data from src/resources/transactions4.csv
+2020-10-20 14:07:50  [ main:36 ] - [ WARN ]  file src/resources/transactions4.csv does not exist - skip
+2020-10-20 14:07:50  [ main:40 ] - [ INFO ]  8 transactions imported
+2020-10-20 14:07:50  [ main:42 ] - [ INFO ]  total value: ¥840.00
+2020-10-20 14:07:50  [ main:42 ] - [ INFO ]  max value: ¥240.00

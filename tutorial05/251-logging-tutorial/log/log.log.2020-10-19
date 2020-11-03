@@ -1,0 +1,108 @@
+2020-10-19 19:29:36 [ main ] ERROR
+2020-10-19 19:29:36 [ main ] WARN
+2020-10-19 19:29:36 [ main ] INFO
+2020-10-19 19:31:18 [ main ] ERROR
+2020-10-19 19:31:18 [ main ] WARN
+2020-10-19 19:31:18 [ main ] INFO
+2020-10-19 19:42:52 [ main ] ERROR
+2020-10-19 19:42:52 [ main ] WARN
+2020-10-19 19:42:52 [ main ] INFO
+2020-10-19 19:44:09 [ main ] ERROR
+2020-10-19 19:44:09 [ main ] WARN
+2020-10-19 19:44:09 [ main ] INFO
+2020-10-19 19:45:10 [ main ] INFO
+2020-10-19 19:45:10 [ main ] INFO
+2020-10-19 19:45:10 [ main ] INFO
+2020-10-19 19:45:10 [ main ] ERROR
+2020-10-19 19:45:10 [ main ] INFO
+2020-10-19 19:45:10 [ main ] WARN
+2020-10-19 19:45:10 [ main ] INFO
+2020-10-19 19:53:48 [ main ] FILE INFO
+2020-10-19 19:53:48 [ main ] FILE INFO
+2020-10-19 19:53:48 [ main ] FILE INFO
+2020-10-19 19:53:48 [ main ] TRANSSCTIONS ERROR
+2020-10-19 19:53:48 [ main ] FILE INFO
+2020-10-19 19:53:48 [ main ] FILE WARN
+2020-10-19 19:53:48 [ main ] INFO
+2020-10-19 19:55:24 [ main ] FILE INFO
+2020-10-19 19:55:24 [ main ] FILE INFO
+2020-10-19 19:55:24 [ main ] FILE INFO
+2020-10-19 19:55:24 [ main ] TRANSSCTIONS ERROR
+2020-10-19 19:55:24 [ main ] FILE INFO
+2020-10-19 19:55:24 [ main ] FILE WARN
+2020-10-19 19:55:24 [ main ] INFO
+2020-10-19 19:57:03 [ main ] FILE INFO
+2020-10-19 19:57:03 [ main ] FILE INFO
+2020-10-19 19:57:03 [ main ] FILE INFO
+2020-10-19 19:57:03 [ main ] TRANSSCTIONS ERROR
+2020-10-19 19:57:03 [ main ] FILE INFO
+2020-10-19 19:57:03 [ main ] FILE WARN
+2020-10-19 19:57:03 [ main ] INFO
+2020-10-19 19:57:15 [ main ] FILE INFO
+2020-10-19 19:57:16 [ main ] FILE INFO
+2020-10-19 19:57:16 [ main ] FILE INFO
+2020-10-19 19:57:16 [ main ] TRANSSCTIONS ERROR
+2020-10-19 19:57:16 [ main ] FILE INFO
+2020-10-19 19:57:16 [ main ] FILE WARN
+2020-10-19 19:57:16 [ main ] INFO
+2020-10-19 20:05:43 [ main ] FILE INFO
+2020-10-19 20:05:43 [ main ] FILE INFO
+2020-10-19 20:05:43 [ main ] FILE INFO
+2020-10-19 20:05:43 [ main ] TRANSSCTIONS ERROR
+2020-10-19 20:05:43 [ main ] FILE INFO
+2020-10-19 20:05:43 [ main ] FILE WARN
+2020-10-19 20:05:43 [ main ] INFO
+2020-10-19 20:06:23 [ main ] FILE INFO
+2020-10-19 20:06:23 [ main ] FILE INFO
+2020-10-19 20:06:23 [ main ] FILE INFO
+2020-10-19 20:06:23 [ main ] TRANSSCTIONS ERROR
+2020-10-19 20:06:23 [ main ] FILE INFO
+2020-10-19 20:06:23 [ main ] FILE WARN
+2020-10-19 20:06:23 [ main ] FILE INFO
+2020-10-19 21:05:49  [ main:0 ] - [ INFO ]  FILE INFO
+2020-10-19 21:05:49  [ main:57 ] - [ INFO ]  FILE INFO
+2020-10-19 21:05:49  [ main:60 ] - [ INFO ]  FILE INFO
+2020-10-19 21:05:49  [ main:63 ] - [ ERROR ]  TRANSSCTIONS ERROR
+2020-10-19 21:05:49  [ main:66 ] - [ INFO ]  FILE INFO
+2020-10-19 21:05:49  [ main:68 ] - [ WARN ]  FILE WARN
+2020-10-19 21:05:49  [ main:77 ] - [ INFO ]  FILE INFO
+2020-10-19 21:10:01  [ main:0 ] - [ INFO ]  FILE INFO
+2020-10-19 21:10:01  [ main:32 ] - [ INFO ]  FILE INFO
+2020-10-19 21:10:01  [ main:34 ] - [ INFO ]  FILE INFO
+2020-10-19 21:10:01  [ main:34 ] - [ ERROR ]  TRANSSCTIONS ERROR
+2020-10-19 21:10:01  [ main:36 ] - [ INFO ]  FILE INFO
+2020-10-19 21:10:01  [ main:36 ] - [ WARN ]  FILE WARN
+2020-10-19 21:10:01  [ main:42 ] - [ INFO ]  FILE INFO
+2020-10-19 21:10:19  [ main:0 ] - [ INFO ]  FILE INFO
+2020-10-19 21:10:19  [ main:26 ] - [ INFO ]  FILE INFO
+2020-10-19 21:10:19  [ main:27 ] - [ INFO ]  FILE INFO
+2020-10-19 21:10:19  [ main:28 ] - [ ERROR ]  TRANSSCTIONS ERROR
+2020-10-19 21:10:19  [ main:29 ] - [ INFO ]  FILE INFO
+2020-10-19 21:10:19  [ main:29 ] - [ WARN ]  FILE WARN
+2020-10-19 21:10:19  [ main:32 ] - [ INFO ]  FILE INFO
+2020-10-19 21:21:16  [ main:0 ] - [ INFO ]  FILE INFO
+2020-10-19 21:21:16  [ main:82 ] - [ INFO ]  FILE INFO
+2020-10-19 21:21:16  [ main:84 ] - [ INFO ]  FILE INFO
+2020-10-19 21:21:16  [ main:86 ] - [ ERROR ]  TRANSSCTIONS ERROR
+2020-10-19 21:21:16  [ main:90 ] - [ INFO ]  FILE INFO
+2020-10-19 21:21:16  [ main:91 ] - [ WARN ]  FILE WARN
+2020-10-19 21:21:16  [ main:97 ] - [ INFO ]  FILE INFO
+2020-10-19 21:22:09  [ main:0 ] - [ INFO ]  FILE INFO
+2020-10-19 21:22:09  [ main:38 ] - [ INFO ]  FILE INFO
+2020-10-19 21:22:09  [ main:39 ] - [ INFO ]  FILE INFO
+2020-10-19 21:22:09  [ main:40 ] - [ ERROR ]  TRANSSCTIONS ERROR
+2020-10-19 21:22:09  [ main:42 ] - [ INFO ]  FILE INFO
+2020-10-19 21:22:09  [ main:43 ] - [ WARN ]  FILE WARN
+2020-10-19 21:22:09  [ main:47 ] - [ INFO ]  FILE INFO
+2020-10-19 21:22:09  [ main:52 ] - [ INFO ]  8 transactions imported
+2020-10-19 21:22:09  [ main:55 ] - [ INFO ]  total value: ¥840.00
+2020-10-19 21:22:09  [ main:56 ] - [ INFO ]  max value: ¥240.00
+2020-10-19 21:23:43  [ main:0 ] - [ INFO ]  import data from src/resources/transactions1.csv
+2020-10-19 21:23:43  [ main:40 ] - [ INFO ]  import data from src/resources/transactions2.csv
+2020-10-19 21:23:43  [ main:42 ] - [ INFO ]  import data from src/resources/transactions3.csv
+2020-10-19 21:23:43  [ main:43 ] - [ ERROR ]  cannot parse date from string - please check whether syntax is correct: Animates,4,13/5/2012
+2020-10-19 21:23:43  [ main:44 ] - [ INFO ]  import data from src/resources/transactions4.csv
+2020-10-19 21:23:43  [ main:48 ] - [ WARN ]  file src/resources/transactions4.csv does not exist - skip
+2020-10-19 21:23:43  [ main:54 ] - [ INFO ]  8 transactions imported
+2020-10-19 21:23:43  [ main:59 ] - [ INFO ]  total value: ¥840.00
+2020-10-19 21:23:43  [ main:60 ] - [ INFO ]  max value: ¥240.00
